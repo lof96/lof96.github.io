@@ -8,4 +8,6 @@ Hello welcome everyone to visit Docker Cheat Sheet page.
 
 ### MySQL Cheat Sheet
 
+![image](./_images/wp2477228-honey-badger-wallpapers.png)
+
 ## [Link download PDF](https://learnsql.com/blog/mysql-cheat-sheet/mysql-cheat-sheet-a4.pdf) ##
