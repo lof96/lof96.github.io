@@ -1,10 +1,10 @@
 ---
-title: "Docker cheat sheet"
+title: "MySQL cheat sheet"
 date: 2023-11-06 16:01:00 +0700
 catageries: [mysql]
 tags: [mysql]
 ---
-Hello welcome everyone to visit Docker Cheat Sheet page.
+Hello welcome everyone to visit MySQL Cheat Sheet page.
 
 ### MySQL Cheat Sheet
 
