@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://lof96.github.io"
 
 github:
   username: lof96 # change to your github username
@@ -38,11 +38,11 @@ social:
   email: lt96.actvn@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/lof96e # change to your github homepage
+    #- https://twitter.com/username # change to your twitter homepage
+    - https://github.com/lof96 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/lof26/
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://i.pinimg.com/originals/32/56/1d/32561de178262f44e812311cdb679e1a.jpg
+avatar:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
