@@ -1,7 +1,7 @@
 ---
 title: "MySQL cheat sheet"
 date: 2023-11-06 16:01:00 +0700
-catagories: [mysql]
+category: [mysql]
 tags: [mysql]
 ---
 Hello welcome everyone to visit MySQL Cheat Sheet page.
