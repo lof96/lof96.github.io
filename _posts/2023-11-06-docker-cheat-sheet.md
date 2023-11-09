@@ -1,7 +1,7 @@
 ---
 title: "Docker cheat sheet"
 date: 2023-11-06 14:20:00 +0700
-catageries: [docker]
+catagories: [docker]
 tags: [docker]
 ---
 Hello welcome everyone to visit Docker Cheat Sheet page.
