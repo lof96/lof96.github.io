@@ -6,4 +6,4 @@ tags: [kubernetes]
 ---
 ### Kubernetes Cheat Sheet
 
-(Link reference:)[https://kubernetes.io/docs/reference/kubectl/cheatsheet/]
+[Link reference: ](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
