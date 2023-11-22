@@ -10,4 +10,6 @@ Thiết kế hệ thống hỗ trợ hàng triệu người dùng là một thá
 
 # Thiết lập máy chủ đơn
 
-Hành trình ngàn dặm được bắt đầu từ bước chân đầu tiên, và xây dựng một hệ thống phức tạp cũng không khác gì.
+Hành trình ngàn dặm được bắt đầu từ bước chân đầu tiên, và xây dựng một hệ thống phức tạp cũng không khác gì. Để bắt đầu với những gì đơn giản, mọi thứ được chạy trên một máy chủ duy nhất. Hình 1-1 minh họa một thiết lập máy chủ duy nhất nơi mà mọi thứ chạy trên máy chủ duy nhất: web app, database, cache, v.v
+
+![image info](./figure1_1.png)
