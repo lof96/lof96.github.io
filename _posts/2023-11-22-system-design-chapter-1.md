@@ -1,5 +1,5 @@
 ---
-title: "System Design"
+title: "Chương 1: Quy mô từ 0 tới hàng triệu người dùng"
 date: 2023-11-22 11:43:00 +0700
 categories: [system design]
 tags: [system design]
